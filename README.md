@@ -26,7 +26,7 @@ Defending champions **Shamrock Rovers** – winners of five of the last six titl
 
 ![Match Outcomes Visualization](first_goals_count.png)
 
-### Core insight:
+### Explanation:
 The data charts each team's performance along a chronological match sequence (x-axis) against the exact minute the opening goal was scored (y-axis). 
 
 Situations where the team that scores first wins is represented by a green dot; an orange dot denotes when the side that claims the game's opening goal is subsequently held to a draw; a red dot signifies a fixture that ended in defeat.
