@@ -1,4 +1,4 @@
-# ⚽ League of Ireland 2026: Team-by-team outcomes when scoring first
+# ⚽ League of Ireland Premier Division 2026: Team-by-team outcomes when scoring first
 
 This data visualisation examines the impact of scoring the first goal in a game, using the **League of Ireland Premier Division 2026** campaign as an example. Trends in Ireland mirror this global reality.
 
