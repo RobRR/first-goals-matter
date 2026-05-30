@@ -2,7 +2,7 @@
 
 This data visualisation examines the impact of scoring the first goal in a game, using the **League of Ireland Premier Division 2026** campaign as an example. 
 
-This study tracks the first 96 games prior to the 2026 two-week summer break, isolating matches where a team scored first.
+This study tracks the first 96 games prior to the 2026 two-week summer break in the LOI campaign, isolating matches where a team scored first.
 
 ---
 
