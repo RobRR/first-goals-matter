@@ -33,4 +33,10 @@ Situations where the team that scores first wins are represented by a green dot;
 * **Leaders**: Title holders **Shamrock Rovers'** grid is festooned with green - 10 wins from 12.
 * **Laggards**: Teams prone to dropping points show clusters of orange and red markers, showing an inability to see out games even after scoring first. Waterford are the worst offenders in this regard: no wins from five.
 
+## 💻 Tech Stack
+
+- **Language:** R
+- **Key Packages:** `gt`, `tidyverse` (`dplyr`, `tibble`, `ggplot2` for data visualisation using `facet_wrap`)
+
+
 
