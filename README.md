@@ -10,7 +10,7 @@ Scoring the first goal in a game is so important.
 
 More often than not, it defines the outcome of a match.
 
-As Rob Eastway and John Haigh mentioned in *The Hidden Mathematics of Sport*, the team that scores first wins about two-thirds of the time, while there is only a one-in-seven chance that a side loses after netting the opening goal.
+As Rob Eastway and John Haigh highlighted in *The Hidden Mathematics of Sport*, the team that scores first wins about two-thirds of the time, while there is only a one-in-seven chance that a side loses after netting the opening goal.
 
 Trends in Ireland mirror this global reality.
 
