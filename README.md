@@ -1,6 +1,6 @@
 # ⚽ League of Ireland Premier Division 2026: Team-by-team outcomes when scoring first
 
-This data visualisation examines the impact of scoring first, tracking the 96 matches played ahead of the 2026 summer break to isolate how teams fared after breaking the deadlock.
+This data visualisation examines the impact of scoring first, tracking the 96 matches played ahead of the 2026 summer recess to isolate how teams fared after breaking the deadlock.
 
 ---
 
