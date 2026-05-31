@@ -32,7 +32,7 @@ The data charts each team's performance along a chronological match sequence (x-
 Situations where the team that scores first wins are represented by a green dot; an orange dot denotes when the side that claims the game's opening goal is subsequently held to a draw; a red dot signifies a fixture that ended in defeat.
 
 * **Leaders**: Title holders **Shamrock Rovers'** grid is festooned with green – 10 wins from 12.
-* **Laggards**: Teams prone to dropping points show clusters of orange and red markers, showing an inability to see out games even after scoring first. **Waterford** are the worst offenders in this regard: no wins from five.
+* **Laggards**: Teams prone to dropping points show clusters of orange and red markers, showing an inability to see out games even after scoring first. **Waterford** are the worst offenders in this regard: no wins from five. 
 
 <img src="first_goals_table.png" alt="Record when scoring first" width="600">
 
