@@ -16,7 +16,7 @@ Trends in Ireland mirror this global reality.
 
 As the 2026 League of Ireland Premier Division campaign pauses for a two-week summer break (matches resume on Friday, June 12), only **Waterford FC**, the team bottom of the table, have failed to win after breaking the deadlock.
 
-Conversely, defending champions **Shamrock Rovers** – winners of five of the last six titles – lead the way with 10 victories from 12 the matches where they claimed the opener.
+Conversely, defending champions **Shamrock Rovers** – winners of five of the last six titles – lead the way with 10 victories from the 12 matches where they claimed the opener.
 
 ---
 
