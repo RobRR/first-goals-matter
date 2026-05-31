@@ -33,10 +33,7 @@ Situations where the team that scores first wins are represented by a green dot;
 * **Leaders**: Title holders **Shamrock Rovers'** grid is festooned with green - 10 wins from 12.
 * **Laggards**: Teams prone to dropping points show clusters of orange and red markers, showing an inability to see out games even after scoring first. Waterford are the worst offenders in this regard: no wins from five.
 
-<p align="center">
-  <img src="first_goals_table.png" alt="LOI First Goal Analysis">
-</p>
-
+![Table Data](first_goals_table.png)
 
 ## 💻 Tech Stack
 
